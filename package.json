@@ -1,0 +1,12 @@
+{
+  "name": "gitcourse",
+  "version": "1.0.0",
+  "description": "Sure, let's break down the meaning of the line dd17600 (HEAD -> master, origin/main) Revert \"Revert \"Index.js Change\"\" from your git log --oneline output:",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

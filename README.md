@@ -1,4 +1,4 @@
-Sure, let's break down the meaning of the line dd17600 (HEAD -> master, origin/main) Revert "Revert "Index.js Change"" from your git log --oneline output:
+let's break down the meaning of the line dd17600 (HEAD -> master, origin/main) Revert "Revert "Index.js Change"" from your git log --oneline output:
 
 Components Breakdown
 dd17600: This is the abbreviated SHA-1 hash of the commit. Every commit in Git has a unique SHA-1 hash, which serves as an identifier. The full hash is longer, but Git often abbreviates it for convenience.
